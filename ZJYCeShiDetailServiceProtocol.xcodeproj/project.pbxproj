@@ -26,6 +26,7 @@
 		189615501E1F83CA0066A3B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189615531E1F83CA0066A3B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		189615551E1F83CA0066A3B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1896155B1E1F84020066A3B7 /* ZJYCeShiDetailServiceProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJYCeShiDetailServiceProtocol.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				189615481E1F83CA0066A3B7 /* AppDelegate.m */,
 				1896154A1E1F83CA0066A3B7 /* ViewController.h */,
 				1896154B1E1F83CA0066A3B7 /* ViewController.m */,
+				1896155B1E1F84020066A3B7 /* ZJYCeShiDetailServiceProtocol.h */,
 				1896154D1E1F83CA0066A3B7 /* Main.storyboard */,
 				189615501E1F83CA0066A3B7 /* Assets.xcassets */,
 				189615521E1F83CA0066A3B7 /* LaunchScreen.storyboard */,
