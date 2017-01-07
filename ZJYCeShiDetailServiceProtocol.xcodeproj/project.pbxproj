@@ -26,7 +26,7 @@
 		189615501E1F83CA0066A3B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189615531E1F83CA0066A3B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		189615551E1F83CA0066A3B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		189615861E1F950B0066A3B7 /* ZJYCeShiDetailServiceProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJYCeShiDetailServiceProtocol.h; sourceTree = "<group>"; };
+		189615961E20BD730066A3B7 /* ZJYCeShiDetailServiceProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJYCeShiDetailServiceProtocol.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,11 +59,11 @@
 		189615431E1F83CA0066A3B7 /* ZJYCeShiDetailServiceProtocol */ = {
 			isa = PBXGroup;
 			children = (
+				189615951E20BD730066A3B7 /* ZJYCeShiDetailServiceProtocol */,
 				189615471E1F83CA0066A3B7 /* AppDelegate.h */,
 				189615481E1F83CA0066A3B7 /* AppDelegate.m */,
 				1896154A1E1F83CA0066A3B7 /* ViewController.h */,
 				1896154B1E1F83CA0066A3B7 /* ViewController.m */,
-				189615851E1F950B0066A3B7 /* Classes */,
 				1896154D1E1F83CA0066A3B7 /* Main.storyboard */,
 				189615501E1F83CA0066A3B7 /* Assets.xcassets */,
 				189615521E1F83CA0066A3B7 /* LaunchScreen.storyboard */,
@@ -81,12 +81,12 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		189615851E1F950B0066A3B7 /* Classes */ = {
+		189615951E20BD730066A3B7 /* ZJYCeShiDetailServiceProtocol */ = {
 			isa = PBXGroup;
 			children = (
-				189615861E1F950B0066A3B7 /* ZJYCeShiDetailServiceProtocol.h */,
+				189615961E20BD730066A3B7 /* ZJYCeShiDetailServiceProtocol.h */,
 			);
-			path = Classes;
+			path = ZJYCeShiDetailServiceProtocol;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
